@@ -5,7 +5,6 @@
     "awsec2docker_express": "bin/awsec2docker_express.js"
   },
   "scripts": {
-    "build": "tsc",
     "watch": "tsc -w",
     "cdk": "cdk",
     "test": "jest hello.test.js"
